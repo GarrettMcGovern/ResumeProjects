@@ -1,0 +1,14 @@
+C:\Users\Garre\OneDrive\Desktop\Huffman\Huffman\bin\Debug\net6.0\Huffman.exe
+C:\Users\Garre\OneDrive\Desktop\Huffman\Huffman\bin\Debug\net6.0\Huffman.deps.json
+C:\Users\Garre\OneDrive\Desktop\Huffman\Huffman\bin\Debug\net6.0\Huffman.runtimeconfig.json
+C:\Users\Garre\OneDrive\Desktop\Huffman\Huffman\bin\Debug\net6.0\Huffman.dll
+C:\Users\Garre\OneDrive\Desktop\Huffman\Huffman\bin\Debug\net6.0\Huffman.pdb
+C:\Users\Garre\OneDrive\Desktop\Huffman\Huffman\obj\Debug\net6.0\Huffman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Garre\OneDrive\Desktop\Huffman\Huffman\obj\Debug\net6.0\Huffman.AssemblyInfoInputs.cache
+C:\Users\Garre\OneDrive\Desktop\Huffman\Huffman\obj\Debug\net6.0\Huffman.AssemblyInfo.cs
+C:\Users\Garre\OneDrive\Desktop\Huffman\Huffman\obj\Debug\net6.0\Huffman.csproj.CoreCompileInputs.cache
+C:\Users\Garre\OneDrive\Desktop\Huffman\Huffman\obj\Debug\net6.0\Huffman.dll
+C:\Users\Garre\OneDrive\Desktop\Huffman\Huffman\obj\Debug\net6.0\refint\Huffman.dll
+C:\Users\Garre\OneDrive\Desktop\Huffman\Huffman\obj\Debug\net6.0\Huffman.pdb
+C:\Users\Garre\OneDrive\Desktop\Huffman\Huffman\obj\Debug\net6.0\Huffman.genruntimeconfig.cache
+C:\Users\Garre\OneDrive\Desktop\Huffman\Huffman\obj\Debug\net6.0\ref\Huffman.dll

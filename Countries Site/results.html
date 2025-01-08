@@ -1,0 +1,38 @@
+﻿<!DOCTYPE HTML> 
+<html lang="en">
+<head>
+      <title>Popular Tourist Spots | Home</title>
+	  <meta charset="utf-8">
+	  <meta name="viewport" content="width=device-width">
+	  <link rel="stylesheet" href="styles.css">
+	  <link rel="shortcut icon" href="">
+	  <link rel="apple-touch-icon" href="">
+      <link rel="icon" sizes="192x192" href="">
+</head>
+<body>
+   <header id="main">
+      <h1>Popular Countries for Tourism</h1>
+   </header>   
+      <article id="contentstart">
+ <section class="container">
+            <h2>Your form has been submitted</h2>
+            <section class="results">
+               <h3>You entered the following data:</h3>
+         
+               <script>
+                   var formData = location.search;
+                   formData = formData.substring(1, formData.length);
+                   while (formData.indexOf("+") !== -1) {
+                      formData = formData.replace("+", " ");
+                   }
+                   formData = decodeURIComponent(formData);
+                   var formArray = formData.split("&");
+                   for (var i = 0; i < formArray.length; i = i + 1) {
+                      document.write("<p>" + formArray[i] + "</p>");
+                   }
+               </script>
+            </section>
+         </section>
+      </article>
+   </body>
+</html>
